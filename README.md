@@ -9,9 +9,11 @@ Private sector takes care of all the rest.
 
 
 ## Taxes
-1. Federal tax. A fixed amount per year per person above 18 year old.  People who don't pay this tax don't vote.
+1. Federal tax. A fixed amount per year per person above 18 year old.
 2. Land tax. The amount depends on land size and zoning.  Urban areas have hire tax rate than rural. 
 3. Car tax.  The amount depends on car size.
+The weight of each citizen's vote is proportional to the amount of taxes he have payed.
+Those who have tax overdue for a while - loose citizenship.
 
 
 ## Regulations
