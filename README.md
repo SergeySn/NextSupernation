@@ -4,14 +4,16 @@ I'll start with writing my ideas, and hopefully other people would provide const
 
 
 ## Government Structure
-The government governs only the shared resources, such as military, police, environment protection, immigration, and public roads.
+The federal government governs only the shared resources, such as military, police, environment protection, immigration.
 Private sector takes care of all the things that are not intrinsically shared, such as education, health care, etc.
+The country is divided into states.  The land of each state was originally purchased by an entity (individual or a group).
+The entity becomes the state government and sets the state law.  State sells or rents portions of its land to sub-entities.
+Roads are owned by entities, and are payed by the tolls.
 
 
 ## Taxes
 1. 1st time country entrance check fee.  New people coming into the country should pass the check.  Fingerprints are taken and retina scanned.
-2. Land tax. The amount depends on land size and zoning.  That is, urban areas have hire tax rate than rural. 
-3. Car tax.  The amount depends on car size.
+2. Land tax. (Federal and/or State?)
 
 The weight of each citizen's vote is proportional to the amount of taxes he have payed.
 
