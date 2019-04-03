@@ -12,7 +12,7 @@ Roads are owned by entities, and are payed by the tolls.
 
 
 ## Taxes
-1. 1st time country entrance check fee.  New people coming into the country should pass the check.  Fingerprints are taken and retina scanned.
+1. 1st time country entrance check fee.  New people coming into the country should pass the check.  Fingerprints are taken and retina scanned.  That data becomes a person's ID.
 2. Land tax. (Federal and/or State?)
 
 The weight of each citizen's vote is proportional to the amount of taxes he have payed.
@@ -35,3 +35,7 @@ Private charitable organizations take care of the people in need.
 People are free to decide to which charity to donate and how much.
 
 
+## Theory
+Efficiency of a system is inversely proportional to Owner-Manager Distance (O-M Distance).
+For example, with high taxes, large portion of resources is managed bureaucrats, who don't report directly to the tax payers, thus the corruption would be high, 
+and consequently the efficiency would be low.
