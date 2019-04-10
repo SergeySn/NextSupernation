@@ -39,3 +39,13 @@ People are free to decide to which charity to donate and how much.
 Efficiency of a system is inversely proportional to Owner-Manager Distance (O-M Distance).
 For example, with high taxes, large portion of resources is managed bureaucrats, who don't report directly to the tax payers, thus the corruption would be high, 
 and consequently the efficiency would be low.
+
+## Banking System (or lack thereof)
+Since money is not a country-shared resource, government doesn't regulate it.
+Explanation: 
+Money is I-owe-you (IOU) notes.  Anyone can issue an IOUs, whether hand-written on a napkin or printed on a fancy paper with copy protection.
+It's up to the others to decide whether to accept those IOUs or not.
+In the beginning, people would mostly rely on existing IOUs (currency from foreign governments, like dollar and euro).
+
+
+
