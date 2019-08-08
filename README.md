@@ -49,3 +49,10 @@ In the beginning, people would mostly rely on existing IOUs (currency from forei
 
 
 
+## Transition
+If an existing country decides to switch to NSN system, each person would be given a choice: switch, or stay with the old system.
+Each person can switch anytime.  To switch back, you would have to retroactively pay the old taxes, which you avoided while being on the new system.
+Nobody really would want to switch back, but this option would make the switch less scary, when you know you can switch back tomorrow.
+
+
+
